@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.noonewillknowhahaha"
+    versionCode = "10"
+    version     = "max" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Pong Game Example</name>
+
+  <description>
+A good game to play when you are bored
+  </description>
+
+  <author href="https://build.phonegap.com" email="kjadalla@me.com">
+     Ajadalla
+  </author>
+<icon src="icon.png" />
+
+</widget>
